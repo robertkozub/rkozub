@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Robert Kozub's Website
+
+I am a MS Geospatial Information Sciences student at UT Dallas.
 
 You can use the [editor on GitHub](https://github.com/robertkozub/robertkozub/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
